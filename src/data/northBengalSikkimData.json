@@ -1,0 +1,550 @@
+{
+  "Darjeeling-Kalimpong-RishopTour": {
+    "title": "Darjeeling, Kalimpong & Rishop Tour",
+    "location": "North Bengal, India",
+    "duration": "5N | 6D",
+    "description": "North Bengal, a gem in the eastern part of India, is a haven for nature lovers, adventure seekers, and culture enthusiasts alike.",
+    "price": 20000,
+    "quota": 0,
+    "schedule": "",
+    "longDescription": "North Bengal, nestled in the lap of the Eastern Himalayas, boasts breathtaking landscapes, lush tea gardens, serene villages, and majestic mountain views. From the vibrant hill station of Darjeeling to the tranquil hamlets of Tinchuley and Chota Mangwa, North Bengal offers a perfect blend of natural beauty and cultural heritage. Whether you seek serene sunrise views over Kanchenjunga, wildlife encounters, or eco-tourism experiences, a North Bengal tour promises unforgettable memories.",
+    "heroImage": "",
+    "includes": [
+      "Pick-up and Drop (Airport / Railway Station)",
+      "Accommodation",
+      "Food: Breakfast",
+      "All transfers and sightseeing by Personalized AC Car",
+      "All Toll tax, parking fees & driver allowances",
+      "GST as applicable"
+    ],
+    "excludes": [
+      "Camera fee",
+      "Alcoholic / Non-Alcoholic beverages",
+      "Tips, laundry & phone call",
+      "Entrance fees to monuments and museum",
+      "All personal expenses",
+      "Travel Insurance",
+      "Service Tax extra (As applicable)",
+      "Any Airfare/Train fare",
+      "Other meals not mentioned laundry, telephone calls, and incidentals.",
+      "Any personal expenses. Room service and special orders. Alcoholic and non-alcoholic beverages.",
+      "Any expense arising due to unforeseen circumstances is not included."
+    ],
+    "itineraryDays": [
+      {
+        "day": 1,
+        "title": "Arrival and Transfer to Rishop",
+        "activities": [
+          "Meet and greet at NJP Railway Station / Bagdogra Airport / Siliguri Bus Stand.",
+          "Transfer to Rishop, known for its deep pine forests, rich flora, and fauna.",
+          "Check in at the hotel and spend the day at leisure.",
+          "Evening stroll along peaceful trails amidst chirping birds."
+        ],
+        "image": ""
+      },
+      {
+        "day": 2,
+        "title": "Rishop Local Sightseeing",
+        "activities": [
+          "Early morning trek to Tiffin Dara for a 360-degree view of snow-capped peaks.",
+          "Visit Lolegaon, a scenic village offering cultural experiences.",
+          "Canopy Walk: 75-meter-long trail amidst dense forests.",
+          "Visit Charkhole for stunning Kanchenjunga views.",
+          "Return to Rishop for leisure."
+        ],
+        "image": ""
+      },
+      {
+        "day": 3,
+        "title": "Rishop to Kalimpong",
+        "activities": [
+          "Transfer to Kalimpong after breakfast.",
+          "Visit Dr. Graham’s Homes, Deolo Hill, Mangal Dham Temple, and Durpin Monastery."
+        ],
+        "image": ""
+      },
+      {
+        "day": 4,
+        "title": "Kalimpong to Darjeeling",
+        "activities": [
+          "Transfer to Darjeeling via Teesta River route.",
+          "Check in at hotel and explore Chowrasta and Darjeeling Mall."
+        ],
+        "image": ""
+      },
+      {
+        "day": 5,
+        "title": "Darjeeling Full-Day Sightseeing",
+        "activities": [
+          "Visit Tiger Hill for sunrise view over Mt. Kanchenjunga.",
+          "Visit Batasia Loop, Ghoom Monastery, Japanese Temple and Peace Pagoda.",
+          "Visit Padmaja Naidu Himalayan Zoological Park and Himalayan Mountaineering Institute.",
+          "Ride Darjeeling Ropeway.",
+          "Evening shopping or cultural programs at Darjeeling Mall."
+        ],
+        "image": ""
+      },
+      {
+        "day": 6,
+        "title": "Departure via Mirik",
+        "activities": [
+          "Begin journey to Bagdogra Airport / NJP Railway Station after breakfast.",
+          "Stop at Mirik Lake: boating, horse rides, and local delicacies.",
+          "Continue journey with memories of the Himalayas."
+        ],
+        "image": ""
+      }
+    ],
+   "galleryImages": [
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/darjeeling-tea-garden.jpg",
+        "alt": "Darjeeling tea gardens"
+      },
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/kanchenjunga-view.jpg",
+        "alt": "Kanchenjunga mountain view"
+      },
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/darjeeling-monastery.jpg",
+        "alt": "Peaceful monastery in Darjeeling"
+      }
+    ]
+  },
+  "Darjeeling-Tinchuley-Chota-MangwaTour": {
+    "title": "Darjeeling, Tinchuley, Chota Mangwa Tour",
+    "location": "North Bengal, India",
+    "duration": "4N | 5D",
+    "description": "North Bengal, a gem in the eastern part of India, is a haven for nature lovers, adventure seekers, and culture enthusiasts alike.",
+    "price": 18000,
+    "quota": 0,
+    "schedule": "",
+    "longDescription": "North Bengal, nestled in the lap of the Eastern Himalayas, boasts breathtaking landscapes, lush tea gardens, serene villages, and majestic mountain views. From the vibrant hill station of Darjeeling to the tranquil hamlets of Tinchuley and Chota Mangwa, North Bengal offers a perfect blend of natural beauty and cultural heritage. Whether you seek serene sunrise views over Kanchenjunga, wildlife encounters, or eco-tourism experiences, a North Bengal tour promises unforgettable memories.",
+    "heroImage": "",
+    "includes": [
+      "Pick-up and Drop (Airport / Railway Station)",
+      "Accommodation",
+      "Food: Breakfast",
+      "All transfers and sightseeing by Personalized AC Car",
+      "All Toll tax, parking fees & driver allowances",
+      "Private Boat: - For Chilika Lake Tour (If Chilika is present in the Itinerary)",
+      "GST as applicable"
+    ],
+    "excludes": [
+      "Camera fee",
+      "Alcoholic / Non-Alcoholic beverages",
+      "Tips, laundry & phone call",
+      "Entrance fees to monuments and museum",
+      "All personal expenses",
+      "Travel Insurance",
+      "Service Tax extra (As applicable)",
+      "Any Airfare/Train fare",
+      "Other meals not mentioned laundry, telephone calls, and incidentals.",
+      "Any personal expenses. Room service and special orders. Alcoholic and non-alcoholic beverages.",
+      "Any expense arising due to unforeseen circumstances is not included."
+    ],
+    "itineraryDays": [
+      {
+        "day": 1,
+        "title": "Arrival at NJP/IXB and Transfer to Darjeeling",
+        "activities": [
+          "Meet and greet at NJP Railway Station/Bagdogra Airport (IXB)/Bus Stand.",
+          "Proceed to Darjeeling after breakfast, enjoying the picturesque Teesta River.",
+          "Arrive and check in at the hotel.",
+          "Explore and shop at Chowrasta & Darjeeling Mall."
+        ],
+        "image": ""
+      },
+      {
+        "day": 2,
+        "title": "Full-Day Darjeeling City Tour",
+        "activities": [
+          "Visit Tiger Hill Sunrise Point.",
+          "Visit Batasia Loop and Ghoom Monastery.",
+          "Visit Padmaja Naidu Himalayan Zoological Park and Himalayan Mountaineering Institute.",
+          "Visit Japanese Temple & Peace Pagoda.",
+          "Visit Tenzing Rock & Gombu Rock.",
+          "Visit Tibetan Refugee Self-Help Center.",
+          "Enjoy Rangeet Valley Passenger Ropeway ride.",
+          "Optional Toy Train Ride based on availability and track conditions."
+        ],
+        "image": ""
+      },
+      {
+        "day": 3,
+        "title": "Transfer from Darjeeling to Tinchuley",
+        "activities": [
+          "Depart for Tinchuley, a serene mountain hamlet known for its organic village model.",
+          "Spend the day at leisure, soaking in natural beauty."
+        ],
+        "image": ""
+      },
+      {
+        "day": 4,
+        "title": "Tinchuley Sightseeing & Transfer to Chota Mangwa",
+        "activities": [
+          "Visit Orange Garden and factory for fresh orange products.",
+          "Visit Gumbadara Viewpoint for panoramic views.",
+          "Explore Tinchuley Monastery.",
+          "Transfer to Chota Mangwa.",
+          "Enjoy nature trails, leisure trek between Chota Mangwa and Bara Mangwa."
+        ],
+        "image": ""
+      },
+      {
+        "day": 5,
+        "title": "Departure",
+        "activities": [
+          "After breakfast, check out and transfer to NJP/IXB/Bus Stand for onward journey."
+        ],
+        "image": ""
+      }
+    ],
+    "galleryImages": [
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/dooars-tea-garden.jpg",
+        "alt": "Dooars tea gardens"
+      },
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/dooars-wildlife.jpg",
+        "alt": "Wildlife in Dooars"
+      },
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/dooars-landscape.jpg",
+        "alt": "Scenic Dooars landscape"
+      }
+    ]
+  },
+  "Kolakham-and-Tinchuley-Nature-Retreat": {
+    "title": "Kolakham and Tinchuley Nature Retreat: A 4N | 5D Himalayan Escape",
+    "location": "North Bengal",
+    "duration": "4N | 5D",
+    "description": "North Bengal, a gem in the eastern part of India, is a haven for nature lovers, adventure seekers, and culture enthusiasts alike. Nestled in the lap of the Eastern Himalayas, this region boasts breathtaking landscapes, lush tea gardens, serene villages, and majestic mountain views.",
+    "price": 18000,
+    "quota": 0,
+    "schedule": "",
+    "longDescription": "From the vibrant hill station of Darjeeling, known for its world-famous tea and toy train, to the tranquil hamlets of Tinchuley and Chota Mangwa, North Bengal offers a perfect blend of natural beauty and cultural heritage. Whether you seek serene sunrise views over Kanchenjunga, wildlife encounters, or eco-tourism experiences, a North Bengal tour promises unforgettable memories.",
+    "heroImage": "",
+    "includes": [
+      "Pick-up and Drop (Airport / Railway Station)",
+      "Accommodation",
+      "Food: Breakfast",
+      "All transfers and sightseeing by Personalized AC Car",
+      "All Toll tax, parking fees & driver allowances",
+      "GST as applicable"
+    ],
+    "excludes": [
+      "Camera fee",
+      "Alcoholic / Non-Alcoholic beverages",
+      "Tips, laundry & phone call",
+      "Entrance fees to monuments and museum",
+      "All personal expenses",
+      "Travel Insurance",
+      "Service Tax extra (As applicable)",
+      "Any Airfare/Train fare",
+      "Other meals not mentioned laundry, telephone calls, and incidentals.",
+      "Any personal expenses. Room service and special orders. Alcoholic and non-alcoholic beverages.",
+      "Any expense arising due to unforeseen circumstances is not included."
+    ],
+    "itineraryDays": [
+      {
+        "day": 1,
+        "title": "Welcome to NJP/IXB/Bus Stand and Transfer to Kolakham",
+        "activities": [
+          "Meet and greet by a representative of Bademiyan Tours and Holidays Operators at NJP Railway Station, Bagdogra Airport (IXB), or Siliguri Bus Stand.",
+          "Drive for approximately 5 hours (130 km) to reach Kolakham, a tranquil village nestled in the Neora Valley Reserve Forest.",
+          "Enjoy the serene ambiance of Kolakham, surrounded by oak, rhododendron, and pine forests, with stunning views of Mt. Kanchenjunga.",
+          "Rest of the day free for relaxation.",
+          "Overnight stay at Kolakham."
+        ],
+        "image": ""
+      },
+      {
+        "day": 2,
+        "title": "Kolakham Sightseeing and Transfer to Rishop via Lava",
+        "activities": [
+          "After breakfast, explore the natural wonders of Kolakham:",
+          "Changi Falls: A short 3 km jeep ride and a 1.5 km walk through the forest lead to this magnificent waterfall, surrounded by the sounds of rare tropical birds.",
+          "Neora Valley Forest: Embark on a jungle safari or trek to experience the pristine wilderness and rare bird species. Optional: Rachel Trek (requires prior permission).",
+          "Post-sightseeing, proceed to Rishop via Lava (2 hours, 35 km).",
+          "Overnight stay at Rishop."
+        ],
+        "image": ""
+      },
+      {
+        "day": 3,
+        "title": "Kolakham to Tinchuley",
+        "activities": [
+          "After breakfast, transfer to Tinchuley (4 hours, 100 km), a serene mountain village located at an altitude of 5,800 ft.",
+          "Tinchuley, meaning \"Three Ovens,\" is named after its three prominent hilltops and offers stunning views of the surrounding valleys and rivers.",
+          "Rest of the day free for relaxation.",
+          "Overnight stay at Tinchuley."
+        ],
+        "image": ""
+      },
+      {
+        "day": 4,
+        "title": "Tinchuley Sightseeing and Stay",
+        "activities": [
+          "After breakfast, explore the attractions in and around Tinchuley:",
+          "Orange Garden: Visit the picturesque orange orchards and the factory producing fresh orange juice, jelly, and marmalades.",
+          "Gumbadara Viewpoint: A short 1.5 km walk offering panoramic views of Mt. Kanchenjunga, the Teesta and Rangeet Rivers, and the Samdupche Monastery.",
+          "Tinchuley Monastery: A peaceful retreat surrounded by breathtaking natural beauty.",
+          "Spend the rest of the day enjoying the scenic views and tranquility of Tinchuley.",
+          "Overnight stay at Tinchuley."
+        ],
+        "image": ""
+      },
+      {
+        "day": 5,
+        "title": "Tinchuley to NJP/IXB/Bus Stand Drop",
+        "activities": [
+          "After breakfast, drive back to NJP Railway Station, Bagdogra Airport (IXB), or Siliguri Bus Stand (4 hours, 90 km).",
+          "Depart with cherished memories of your journey."
+        ],
+        "image": ""
+      }
+    ],
+    "galleryImages": [
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/dooars-tea-garden.jpg",
+        "alt": "Dooars tea gardens"
+      },
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/dooars-wildlife.jpg",
+        "alt": "Wildlife in Dooars"
+      },
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/dooars-landscape.jpg",
+        "alt": "Scenic Dooars landscape"
+      }
+    ]
+  },
+  "Hills-of-Darjeeling-and-Kalimpong": {
+    "title": "Discover the Enchanting Hills of Darjeeling and Kalimpong with Bademiyan Tours and Holidays",
+    "location": "North Bengal",
+    "duration": "5N| 6D",
+    "description": "North Bengal, a gem in the eastern part of India, is a haven for nature lovers, adventure seekers, and culture enthusiasts alike. Nestled in the lap of the Eastern Himalayas, this region boasts breathtaking landscapes, lush tea gardens, serene villages, and majestic mountain views.",
+    "price": 18000,
+    "quota": 0,
+    "schedule": "",
+    "longDescription": "From the vibrant hill station of Darjeeling, known for its world-famous tea and toy train, to the tranquil hamlets of Tinchuley and Chota Mangwa, North Bengal offers a perfect blend of natural beauty and cultural heritage. Whether you seek serene sunrise views over Kanchenjunga, wildlife encounters, or eco-tourism experiences, a North Bengal tour promises unforgettable memories.",
+    "heroImage": "",
+    "includes": [
+      "Pick-up and Drop (Airport / Railway Station)",
+      "Accommodation",
+      "Food: Breakfast",
+      "All transfers and sightseeing by Personalized AC Car",
+      "All Toll tax, parking fees & driver allowances",
+      "Private Boat: - For Chilika Lake Tour (If Chilika is present in the Itinerary)",
+      "GST as applicable"
+    ],
+    "excludes": [
+      "Camera fee",
+      "Alcoholic / Non-Alcoholic beverages",
+      "Tips, laundry & phone call",
+      "Entrance fees to monuments and museum",
+      "All personal expenses",
+      "Travel Insurance",
+      "Service Tax extra (As applicable)",
+      "Any Airfare/Train fare",
+      "Other meals not mentioned laundry, telephone calls, and incidentals.",
+      "Any personal expenses. Room service and special orders. Alcoholic and non-alcoholic beverages.",
+      "Any expense arising due to unforeseen circumstances is not included."
+    ],
+    "itineraryDays": [
+      {
+        "day": 1,
+        "title": "Welcome to NJP/IXB and Transfer to Ramdhura",
+        "activities": [
+          "Upon arrival at NJP Railway Station, Bagdogra Airport (IXB), or Siliguri Bus Stand, meet our representative from Bademiyan Tours and Holidays Operators.",
+          "Enjoy a scenic 3-hour drive (approx. 95 km) to Ramdhura, a quaint village offering panoramic views of Kanchenjunga and the Teesta River.",
+          "Explore the tranquil village surrounded by dense pine forests and soak in its natural beauty.",
+          "Overnight stay at Ramdhura."
+        ],
+        "image": ""
+      },
+      {
+        "day": 2,
+        "title": "Ramdhura Sightseeing and Transfer to Reshikhola",
+        "activities": [
+          "After breakfast, embark on a sightseeing tour around Ramdhura, visiting:",
+          "Icchey Gaon: A charming hamlet with splendid views of Mt. Kanchenjunga.",
+          "Delo Hill: A parkland with manicured gardens and breathtaking viewpoints.",
+          "Durpin Monastery: A Tibetan monastery housing rare Buddhist scripts with stunning valley views.",
+          "Jalsa Bungalow: A historic British-era bungalow offering panoramic vistas of the Teesta River.",
+          "Ramitey Dara: Witness the longest view of the emerald-green Teesta River.",
+          "Post-sightseeing, proceed to Reshikhola (approx. 45 km, 2 hours), a serene valley by the Reshi River, perfect for nature lovers.",
+          "Overnight stay at Reshikhola."
+        ],
+        "image": ""
+      },
+      {
+        "day": 3,
+        "title": "Reshikhola to Lolegaon Transfer",
+        "activities": [
+          "After breakfast, drive to Lolegaon (approx. 55 km, 3 hours), a picturesque village in Kalimpong.",
+          "Visit the famous Eco Tourism Park with its giant Buddha statue and explore the Canopy Walk, a 75-meter-long trail through dense forests.",
+          "Enjoy the serene atmosphere, chirping birds, and breathtaking views.",
+          "Overnight stay at Lolegaon."
+        ],
+        "image": ""
+      },
+      {
+        "day": 4,
+        "title": "Lolegaon to Kolakham Transfer",
+        "activities": [
+          "After breakfast, proceed to Kolakham (approx. 40 km, 2 hours), a charming village nestled in Neora Valley Reserve Forest at an altitude of 6,500 ft.",
+          "Bask in the majestic views of Kanchenjunga, explore the pristine forests, and unwind amidst nature.",
+          "Overnight stay at Kolakham."
+        ],
+        "image": ""
+      },
+      {
+        "day": 5,
+        "title": "Kolakham Sightseeing",
+        "activities": [
+          "Post breakfast, explore the highlights of Kolakham:",
+          "Changi Falls: A 3 km jeep ride and a 1.5 km trek lead to this stunning waterfall amidst dense forests.",
+          "Neora Valley Forest: A jungle safari and trekking experience through one of the most pristine ecosystems, home to rare birds and wildlife.",
+          "Optional Rachela Trek for adventure enthusiasts (requires prior permission).",
+          "Overnight stay at Kolakham."
+        ],
+        "image": ""
+      },
+      {
+        "day": 6,
+        "title": "Kolakham to NJP/IXB/Bus Stand Drop",
+        "activities": [
+          "After breakfast, bid farewell to the hills and proceed to NJP Railway Station, Bagdogra Airport, or Siliguri Bus Stand (approx. 130 km, 5 hours).",
+          "Conclude your journey with sweet memories of the enchanting hills."
+        ],
+        "image": ""
+      }
+    ],
+    "galleryImages": [
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/dooars-tea-garden.jpg",
+        "alt": "Dooars tea gardens"
+      },
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/dooars-wildlife.jpg",
+        "alt": "Wildlife in Dooars"
+      },
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/dooars-landscape.jpg",
+        "alt": "Scenic Dooars landscape"
+      }
+    ]
+  },
+  "Reshikhola-Sillerygaon-and-Rishop-Tour": {
+    "title": "Serenity and Splendor: Reshikhola, Sillerygaon, and Rishop Tour with Bademiyan Tour Operators",
+    "location": "North Bengal",
+    "duration": "4N | 5D",
+    "description": "North Bengal, a gem in the eastern part of India, is a haven for nature lovers, adventure seekers, and culture enthusiasts alike. Nestled in the lap of the Eastern Himalayas, this region boasts breathtaking landscapes, lush tea gardens, serene villages, and majestic mountain views.",
+    "price": 15000,
+    "quota": 0,
+    "schedule": "",
+    "longDescription": "From the vibrant hill station of Darjeeling, known for its world-famous tea and toy train, to the tranquil hamlets of Tinchuley and Chota Mangwa, North Bengal offers a perfect blend of natural beauty and cultural heritage. Whether you seek serene sunrise views over Kanchenjunga, wildlife encounters, or eco-tourism experiences, a North Bengal tour promises unforgettable memories.",
+    "heroImage": "",
+    "includes": [
+      "Pick-up and Drop (Airport / Railway Station)",
+      "Accommodation",
+      "Food: Breakfast",
+      "All transfers and sightseeing by Personalized AC Car",
+      "All Toll tax, parking fees & driver allowances",
+      "Private Boat: - For Chilika Lake Tour (If Chilika is present in the Itinerary)",
+      "GST as applicable"
+    ],
+    "excludes": [
+      "Camera fee",
+      "Alcoholic / Non-Alcoholic beverages",
+      "Tips, laundry & phone call",
+      "Entrance fees to monuments and museum",
+      "All personal expenses",
+      "Travel Insurance",
+      "Service Tax extra (As applicable)",
+      "Any Airfare/Train fare",
+      "Other meals not mentioned laundry, telephone calls, and incidentals.",
+      "Any personal expenses. Room service and special orders. Alcoholic and non-alcoholic beverages.",
+      "Any expense arising due to unforeseen circumstances is not included."
+    ],
+    "itineraryDays": [
+      {
+        "day": 1,
+        "title": "Welcome to NJP/IXB and Transfer to Reshikhola",
+        "activities": [
+          "Meet and greet by our representative from Bademiyan Tour Operators at NJP Railway Station, Bagdogra Airport (IXB), or Siliguri Bus Stand.",
+          "Transfer to Reshikhola, a serene valley located at an altitude of 2,000 ft, named after the Reshi River.",
+          "Enjoy the tranquil environment, surrounded by lush green forests and mountains.",
+          "Guests can indulge in activities like river bathing or fishing in the crystal-clear waters.",
+          "Overnight stay at Reshikhola."
+        ],
+        "image": ""
+      },
+      {
+        "day": 2,
+        "title": "Reshikhola to Sillerygaon",
+        "activities": [
+          "After breakfast, visit Aritar:",
+          "Lampokhri Lake: One of Sikkim’s oldest natural lakes, offering boating opportunities and located at an altitude of 4,600 ft.",
+          "Proceed to Sillerygaon, also known as New Darjeeling.",
+          "This peaceful hamlet is a haven for nature lovers, offering a serene retreat far from the city's hustle and bustle.",
+          "Overnight stay at Sillerygaon."
+        ],
+        "image": ""
+      },
+      {
+        "day": 3,
+        "title": "Sillerygaon to Rishop",
+        "activities": [
+          "Early morning trek to the following points:",
+          "Ramitey Viewpoint: A soft 30-minute trek offering panoramic views of the Teesta River and Mt. Kanchenjunga.",
+          "Tinchuley Top: Known for its 360-degree views of majestic mountains.",
+          "Damsang Fort: The only fort of the Lepcha kings, accessible via a 45-minute trek.",
+          "Post-trek, enjoy breakfast and transfer to Rishop, a serene offbeat destination nestled among the Himalayas.",
+          "Famous for its stunning views of Mt. Kanchenjunga and rich flora and fauna.",
+          "Rest of the day is free to experience the peace and natural beauty of Rishop.",
+          "Overnight stay at Rishop."
+        ],
+        "image": ""
+      },
+      {
+        "day": 4,
+        "title": "Rishop Sightseeing and Exploration",
+        "activities": [
+          "Early morning trek to Tiffindara:",
+          "A 3 km soft trek through dense forests leading to a 360-degree view of Mt. Kanchenjunga and other snow-capped peaks.",
+          "Post breakfast, visit Lolegaon and Charkol:",
+          "Lolegaon: A small village offering a giant Buddha statue at the Eco Tourism Park and the famous Canopy Walk – a 75-meter trail through dense forests.",
+          "Charkol: Nestled at 5,000 ft, this village offers stunning views of Mt. Kanchenjunga and the melodies of rare birds like the Indian Robin and Blue Fronted Redstart.",
+          "Rest of the day is free for personal enjoyment and relaxation.",
+          "Overnight stay at Rishop."
+        ],
+        "image": ""
+      },
+      {
+        "day": 5,
+        "title": "Rishop to NJP/IXB/Bus Stand Drop",
+        "activities": [
+          "After breakfast, bid farewell to the enchanting hills and proceed to NJP Railway Station, Bagdogra Airport, or Siliguri Bus Stand.",
+          "End your journey with cherished memories of the serene villages and majestic landscapes."
+        ],
+        "image": ""
+      }
+    ],
+    "galleryImages": [
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/dooars-tea-garden.jpg",
+        "alt": "Dooars tea gardens"
+      },
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/dooars-wildlife.jpg",
+        "alt": "Wildlife in Dooars"
+      },
+      {
+        "url": "https://ik.imagekit.io/qad3x0vr1/dooars-landscape.jpg",
+        "alt": "Scenic Dooars landscape"
+      }
+    ]
+  }
+}
